@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Vintage Leica Camera",
+        "description": "Classic 1950s camera in perfect working condition.",
+        "currentBidPrice": 2850,
+        "timeLeft": "3d 20h",
+        "bidsCount": 7,
+        "image": "https://i.ibb.co.com/BVSGgL0v/Bid1-min.png"
+    },
+    {
+        "id": 2,
+        "title": "1965 Gibson SG Standard Electric Guitar",
+        "description": "High-quality sound Gibson Electric Guiter, Perfect condition &  barely used.",
+        "currentBidPrice": 2500,
+        "timeLeft": "2d 10h",
+        "bidsCount": 12,
+        "image": "https://i.ibb.co.com/XHQnLD5/Bid2-min.png"
+    },
+    {
+        "id": 3,
+        "title": "Original Apple Macintosh 128K (1984)",
+        "description": "Apple Macintosh 128k is one of the Famous Apple Product. Its in Working condition and the performence is still good.",
+        "currentBidPrice": 3000,
+        "timeLeft": "1d 2h",
+        "bidsCount": 20,
+        "image": "https://i.ibb.co.com/Pv3K759P/Bid3-min.png"
+    },
+    {
+        "id": 4,
+        "title": "Rolex Submariner 16610",
+        "description": "World wide Famous Watch Rolex. One of the rare Model of Rolex",
+        "currentBidPrice": 3500,
+        "timeLeft": "1d 45m",
+        "bidsCount": 5,
+        "image": "https://i.ibb.co.com/SDq8ZKjf/Bid4-min.png"
+    },
+    {
+        "id": 5,
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "description": "Famous Scholer F. Scott Fitzgerald one of the most demanding item 'The Great Gatsby'",
+        "currentBidPrice": 1000,
+        "timeLeft": "2d 5m",
+        "bidsCount": 9,
+        "image": "https://i.ibb.co.com/zTb6vNGW/Bid6-min.png"
+    },
+    {
+        "id": 6,
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "Antique Peace. This Chair was used by Great Empires",
+        "currentBidPrice": 2850,
+        "timeLeft": "1d 50m",
+        "bidsCount": 14,
+        "image": "https://i.ibb.co.com/C5q14kB7/Bid5-min.png"
+    },
+    {
+        "id": 7,
+        "title": "Banksy Original Screen Print",
+        "description": "One of the most rarest Painting out there in the world.",
+        "currentBidPrice": 1899,
+        "timeLeft": "1d 3h",
+        "bidsCount": 6,
+        "image": "https://i.ibb.co.com/gFjKHc4m/Bid7-min.png"
+    }
+]
